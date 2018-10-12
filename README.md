@@ -1,1 +1,1 @@
-# WebpackReactSetup
+# webpack-react-setup
